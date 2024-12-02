@@ -24,3 +24,14 @@ The Fashion Store wants to create an annual sales report for 2023 so that the ow
 - Make sure data is consistent and clean with respect to data type, data format and values used.
 - Create pivot tables according to our requirements.
 - Merge all pivot tables into one dashboard and apply slicers to make the dashboard dynamic.
+
+## Project Insight
+-	Women customers are more likely to buy products compared to men (65% Women).
+-	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+-	The adult age group (30-49 yrs) is max contributing to the sales and buying the most products.
+-	The maximum number of products customer orders are from Amazon, Flipkart and Myntra channels.
+-	More than 90% of the products are delivered.
+
+## Final Conclusion
+To improve the sales of Fashion store, a strategic marketing plan focused on Women aged 30-49 years residing in Maharashtra, Karnataka and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+
