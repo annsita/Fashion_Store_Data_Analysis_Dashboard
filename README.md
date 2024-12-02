@@ -13,3 +13,4 @@ The Fashion Store wants to create an annual sales report for 2023 so that the ow
 -	Which channel is contributing the maximum to sales?
 -	Highest selling category
 
+- Dashboard Interaction <a href="https://github.com/annsita/Fashion_Store_Data_Analysis_Dashboard/blob/main/Screenshot%20(6).png">View Dashboard</a>
