@@ -4,7 +4,8 @@
 The Fashion Store wants to create an annual sales report for 2023 so that the owner of the store can understand their customers and grow more sales in 2024 & 2025.
 
 ## Dataset used
-- <a href="
+- <a href="https://github.com/annsita/Fashion_Store_Data_Analysis_Dashboard/blob/main/Fashion%20Store%20Data%20Analysis%20Dataset.xlsx">Dataset</a>
+
 ## Questions (KPIs)
 -	Compare the sales and orders using single chart.
 -	Which month has the highest sales and orders?
