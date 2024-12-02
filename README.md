@@ -25,6 +25,11 @@ The Fashion Store wants to create an annual sales report for 2023 so that the ow
 - Create pivot tables according to our requirements.
 - Merge all pivot tables into one dashboard and apply slicers to make the dashboard dynamic.
 
+## Dahboard
+![Screenshot (6)](https://github.com/user-attachments/assets/b3ceb613-9674-4586-846c-c295355db0ab)
+
+
+
 ## Project Insight
 -	Women customers are more likely to buy products compared to men (65% Women).
 -	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
