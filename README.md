@@ -16,4 +16,11 @@ The Fashion Store wants to create an annual sales report for 2023 so that the ow
 -	Which channel is contributing the maximum to sales?
 -	Highest selling category
 
-- Dashboard Interaction <a href="https://github.com/annsita/Fashion_Store_Data_Analysis_Dashboard/blob/main/Screenshot%20(6).png">View Dashboard</a>
+## Dashboard Interaction 
+- <a href="https://github.com/annsita/Fashion_Store_Data_Analysis_Dashboard/blob/main/Screenshot%20(6).png">View Dashboard</a>
+
+## Process
+- Check the data to see if there are any missing values or anomalies, and if they exist sort that out.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
+- Create pivot tables according to our requirements.
+- Merge all pivot tables into one dashboard and apply slicers to make the dashboard dynamic.
